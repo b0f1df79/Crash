@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386947943965",
+    "project_id": "crash-8e171",
+    "storage_bucket": "crash-8e171.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386947943965:android:ce470c7c8f7780a7ecc0f4",
+        "android_client_info": {
+          "package_name": "com.iansoft.crash.Firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386947943965-6le8nhsbl76soov0hj3m0vij9qrump9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB112UuWAzb1QeJ1PiSFIbP4QWi6HPM-m8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386947943965-6le8nhsbl76soov0hj3m0vij9qrump9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

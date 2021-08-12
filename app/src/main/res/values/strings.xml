@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Crash</string>
+    <string name="crash_java">Crash Java</string>>
+    <string name="crash_native">Crash Native</string>>
+</resources>
